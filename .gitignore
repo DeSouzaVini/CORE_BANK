@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Variáveis sensíveis
+.env
+
+# VS Code
+.vscode/
+
+# Arquivos locais
+*.db
